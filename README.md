@@ -1,4 +1,4 @@
-Face Mask Detection and Face Recognition
+##Face Mask Detection and Face Recognition
 
 Face Mask Detection had become very important to many organizations due to recent bad situations from COVID19 pandamic. It's of great importance to wear masks in puplic to help prevent the spread of Corona Virus accross the globe. However, some people behave irresponsive in the matter and they do not care to follow the instruction reagarding COVID. Hence, it has become necessary to build a solution which will detect whether a person is wearing a mask or not. In addition, it's a surplus to detect incorrectly worn masks.
 This work uses a deep-learning based solution for detecting faces wearing masks in public place to prevent the spread of Coronavirus is presented. This work does not only rely on the detection of mask but it also tried to identify people not wearing face masks using Face recognition techniques.
